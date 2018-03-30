@@ -1,0 +1,32 @@
+{
+  "name": "qyer-data-collect-tools",
+  "version": "1.0.0",
+  "description": "qyer data collect tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qyer",
+    "data",
+    "collect",
+    "tools"
+  ],
+  "author": "xiehui@han-zi.cn",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "axios": "^0.17.1",
+    "crawler": "^1.1.2",
+    "kafka-node": "^2.4.1",
+    "lodash": "^4.17.4",
+    "log4js": "^2.5.3",
+    "mongoose": "^5.0.11",
+    "mysql2": "^1.5.3",
+    "puppeteer": "^1.0.0",
+    "request": "^2.83.0",
+    "sequelize": "^4.37.4",
+    "unirest": "^0.5.1",
+    "uuid": "^3.2.1"
+  }
+}
